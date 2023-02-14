@@ -1,0 +1,12 @@
+
+Swtich when to change between on the beats and on triplets
+Dynamic tempo
+> 2 colors
+> 2 "negative colors"
+
+different patterns 
+change movement method
+Make level directional? (think Flappy Bird)
+Make circular level (think super hexagon)
+
+make banger tunes
